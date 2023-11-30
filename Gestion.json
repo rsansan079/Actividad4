@@ -1,0 +1,42 @@
+{
+    "empresa":[
+        {
+"id":1,
+"Nombre":"Manuel Cañas García",
+"Edad":"37",
+"Cargo":"Programador",
+"Salario":"23000€",
+"proyectos":[
+{"Aplicación 1":[
+    {"detalles":"Crea el código principal","Nombre":"Aplicación Banco"},
+    {"fecha inicio":"23/08/2022","tareas":"Crea el código estructural"}
+]
+}
+],
+"id":2,
+"Nombre":"Laura Gómez Muñoz",
+"Edad":"33",
+"Cargo":"Diseñadora",
+"Salario":"21000€",
+"proyectos":[
+{"Aplicación 2":[
+    {"detalles":"Diseña la interfaz","Nombre":"Aplicación Bizum"},
+    {"fecha inicio":"12/05/2021","tareas":"Diseño de interfaz de inicio de sesión"}
+]
+        }
+    ],
+    "id":3,
+    "Nombre":"Carlos Perez Sanchez",
+    "Edad":"42",
+    "Cargo":"Jefe Proyecto",
+    "Salario":"28000€",
+    "proyectos":[
+    {"Aplicación 1 y Aplicación 2 ":[
+        {"detalles":"Dirección proyecto","Nombre":"Aplicación Bizum y Aplicación Banco"},
+        {"fecha inicio":"01/05/2021","tareas":"Encargado de dirigir ambos proyectos"}
+    ]
+            }
+        ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+"estudiante":[
+{   
+"id":1,
+"Nombre":"Fran Rodríguez Astete",
+"edad":"18",
+"lista asignaturas":[
+{"asignatura":"historia","nota":"9"},
+{"asignatura":"Lengua","nota":"6"},
+{"asignatura":"Matematicas","nota":"6"},
+{"asignatura":"Filosofía","nota":"8"}
+        ]
+    }   
+],
+"profesores":[
+{
+"id":2,
+"nombre":"Juan Perez Archidona",
+"edad":"45",
+"lista de asignatura":[
+    {"Asignatura":"Física","creditos":"25"},
+    {"Asignatura":"Química","creditos":"40"}
+]
+}
+] 
+}
